@@ -1,4 +1,4 @@
 rohit = 59
-aman = 7
+rugu = 18
 
-print(rohit + aman)
+print(rohit + rugu)
